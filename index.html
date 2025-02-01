@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Read Fruit Prices</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        h1 {
+            color: #2E8B57;
+        }
+        #fileContent {
+            white-space: pre-wrap;
+            margin-top: 20px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            background-color: #f9f9f9;
+        }
+        input[type="file"] {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Upload and Read Fruit Prices</h1>
+    <p>Select a text file containing fruit prices:</p>
+    <input type="file" id="fileInput" />
+    
+    <div id="fileContent"></div> <!-- This will display the file content -->
+
+    <script src="script.js"></script> <!-- Link to the external script file -->
+</body>
+</html>
