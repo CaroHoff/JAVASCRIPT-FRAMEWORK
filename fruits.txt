@@ -1,0 +1,6 @@
+Apple - CAD 3.99 lb
+Banana - CAD 0.69 unid
+Orange - CAD 3.99 lb
+Grapes - CAD 2.99 lb
+Mango - CAD 4.99 unit
+Pineapple - CAD 4.99 unit
